@@ -1,0 +1,27 @@
+n° colonne
+1 - temps*0.02
+2 - temps GPS
+3 - GPS_latitude
+4 - GPS_longitude
+5 - GPS_altitude
+6 - GPS_vitesse_est
+7 - GPS_vitesse_nord
+8 - GPS_vitesse_ascendante
+9 - Psi
+10 - Theta
+11 - Phi
+12 - p,gyro[0];
+13 - q,gyro[1];
+14 - R,gyro[2];
+15 - Acc_x,acc[0];
+16 - Acc_y,acc[1];
+17 - Acc_z,acc[2];
+37 - state.X;  
+38 - state.Y;
+39 - state.Z;
+49 - pression baro en Pa
+64 - mag[0]
+68 - mag[1]
+69 - mag[2]
+71 - nombre de satellite
+72 - status GPS
